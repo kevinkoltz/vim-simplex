@@ -14,7 +14,7 @@ Example install using [vim-plug](https://github.com/junegunn/vim-plug), add:
 in your `.vimrc`, then execute `:PlugInstall`.
 
 ## Usage
-Put `colorscheme <scheme>` Make sure you have syntax highlighting on, and 256
+Make sure you have syntax highlighting on, and 256
 colors set. Vim version >= 7.4 recommended.
 
 For example:
