@@ -80,7 +80,7 @@ hi TabLineFill      guifg=#192224   guibg=#5E6C70
 hi TabLineSel       guifg=#192224   guibg=#5eafdb
 hi Tag              guifg=#5eafdb   guibg=NONE   
 hi Title            guifg=#5E6C70   guibg=NONE
-hi Todo             guifg=#F9F9FF   guibg=#5eafdb
+hi Todo             guifg=#ea9913   guibg=NONE
 hi Type             guifg=#536991   guibg=NONE   
 hi Typedef          guifg=#536991   guibg=NONE   
 hi Underlined       guifg=#F9F9FF   guibg=#192224
